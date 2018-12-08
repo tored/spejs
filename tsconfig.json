@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "docs/build",
+    "sourceMap": false,
+    "target": "es6"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
